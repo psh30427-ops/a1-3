@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-23",
+  "environment": "local browser; API errors and 504 mocked; not production incidents",
+  "providerCalls": 0,
+  "checks": [
+    {
+      "scenario": "empty",
+      "message": "궁금한 점이나 원하는 덱을 입력해 주세요.",
+      "result": "passed",
+      "screenshot": "evidence/screenshots/failure-empty.jpg"
+    },
+    {
+      "scenario": "api-error",
+      "message": "Gemini 연결에 문제가 생겼습니다. 잠시 후 다시 시도해 주세요.",
+      "result": "passed",
+      "screenshot": "evidence/screenshots/failure-api-error.jpg"
+    },
+    {
+      "scenario": "timeout",
+      "message": "응답이 늦어지고 있습니다. 잠시 후 다시 시도해 주세요.",
+      "result": "passed",
+      "screenshot": "evidence/screenshots/failure-timeout.jpg"
+    }
+  ]
+}
