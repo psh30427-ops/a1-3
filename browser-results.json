@@ -1,0 +1,25 @@
+{
+  "testedAt": "2026-11-19",
+  "result": "passed",
+  "screens": [
+    1440,
+    768,
+    390
+  ],
+  "checks": [
+    "4-menu navigation",
+    "10 actual twenty-card recipes",
+    "search/type/favorite persistence",
+    "empty input/consent/real 503",
+    "mock API success with explicit test badge",
+    "upstream timeout message and retry",
+    "text-only output prevents HTML execution",
+    "source dates",
+    "no overflow",
+    "no external browser requests",
+    "no page errors"
+  ],
+  "liveAiVerified": false,
+  "deployedUrlVerified": false
+}
+

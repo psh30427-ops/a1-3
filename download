@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+.vercel/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+*.log
+evidence/screenshots/live-*
+
+*.zip
+
+exports/

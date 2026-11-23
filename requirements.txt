@@ -1,0 +1,2 @@
+# Runtime uses only Python 3.12 standard-library modules (urllib/http/json).
+# No third-party packages or provider SDK are required.

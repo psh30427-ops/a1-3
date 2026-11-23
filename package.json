@@ -1,0 +1,1 @@
+{"name":"pocket-deck-coach-assignment","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"python scripts/serve.py","test":"python -m unittest discover -s tests -v","check":"node --check public/js/app.js","test:browser":"node scripts/browser-test.mjs"},"devDependencies":{"playwright":"^1.62.1"}}

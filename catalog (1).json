@@ -1,0 +1,1394 @@
+{
+  "version": "2026-11-18.assignment-2",
+  "preparedAt": "2026-11-18",
+  "lastVerified": "2026-11-18",
+  "notice": "총 10개 덱. 신규 3개는 2026-11-18, 기존 7개는 2026-10-30 확인 자료입니다. 공략 사이트의 덱 유형 평가와 대회 제출 레시피를 구분합니다. 자체 티어·현재 상성은 미확인입니다.",
+  "decks": [
+    {
+      "id": "research-melmetal-pair",
+      "name": "멜메탈 ex · 멜메탈 덱",
+      "type": "강철",
+      "style": "defensive",
+      "description": "강철 포켓몬의 보호와 도구를 이용하는 공격을 함께 준비하는 구성입니다.",
+      "strategy": [
+        "멜탄을 두 진화 형태가 공유하므로 보호용 멜메탈과 공격용 멜메탈 ex를 어느 순서로 준비할지 확인하세요."
+      ],
+      "strengths": [
+        "멜메탈 ex · 멜메탈(C1): 비 ex 멜메탈을 벤치에 두어도 멜메탈 ex 등 자신의 강철 포켓몬을 공격 피해로부터 보호할 수 있습니다.",
+        "멜메탈 ex · 멜메탈(C1): 보호 역할과 도구를 이용하는 공격 역할을 나누어 준비할 수 있습니다."
+      ],
+      "weaknesses": [
+        "멜메탈 ex · 멜메탈(C1): 멜탄 2장을 두 진화 형태가 공유하므로 어느 쪽으로 진화시킬지 자원 배분이 필요합니다. 멜메탈(C1) 2장의 감소 효과는 중첩되지 않습니다.",
+        "멜메탈 ex · 멜메탈(C1): 보호 효과는 상대 포켓몬의 공격 피해에만 적용됩니다. 모든 피해나 특수 상태를 막는 것으로 계산하지 마세요. 멜메탈 ex의 에너지와 도구 준비도 별도로 필요합니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-29T22:00:00.000Z",
+      "recipeKind": "tournament",
+      "format": "Standard 확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129/player/donattasxd/decklist",
+      "formatSource": "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129",
+      "sources": [
+        "https://pocket.limitlesstcg.com/cards/C1/97",
+        "https://pocket.limitlesstcg.com/cards/B1/174",
+        "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129/player/donattasxd/decklist"
+      ],
+      "cards": [
+        {
+          "id": "A1-181",
+          "quantity": 2,
+          "name": "멜탄",
+          "nameEn": "Meltan",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-97",
+          "quantity": 2,
+          "name": "멜메탈",
+          "nameEn": "Melmetal",
+          "type": "강철"
+        },
+        {
+          "id": "B1-174",
+          "quantity": 1,
+          "name": "멜메탈 ex",
+          "nameEn": "Melmetal ex",
+          "type": "미확인"
+        },
+        {
+          "id": "A4-124",
+          "quantity": 1,
+          "name": "Skarmory ex",
+          "nameEn": "Skarmory ex",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-91",
+          "quantity": 1,
+          "name": "메가무장조 ex",
+          "nameEn": "Mega Skarmory ex",
+          "type": "미확인"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2b-71",
+          "quantity": 1,
+          "name": "레드",
+          "nameEn": "Red",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 1,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B4a-70",
+          "quantity": 1,
+          "name": "Team Rocket's Master Plan",
+          "nameEn": "Team Rocket's Master Plan",
+          "type": "해당 없음"
+        },
+        {
+          "id": "C1-127",
+          "quantity": 1,
+          "name": "Serena's Choice",
+          "nameEn": "Serena's Choice",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A4-153",
+          "quantity": 2,
+          "name": "Steel Apron",
+          "nameEn": "Steel Apron",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-148",
+          "quantity": 2,
+          "name": "Metal Core Barrier",
+          "nameEn": "Metal Core Barrier",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-hoopa-sableye",
+      "name": "후파 ex · 메가깜까미 ex 덱",
+      "type": "악",
+      "style": "balanced",
+      "description": "후파 ex와 메가깜까미 ex를 함께 채용한 기본 포켓몬 중심 구성입니다.",
+      "strategy": [
+        "메가깜까미 ex의 추가 피해 조건과 기절 시 3포인트 손실을 함께 계산하는 운영을 제안합니다."
+      ],
+      "strengths": [
+        "후파 ex · 메가깜까미 ex: 두 주력 모두 기본 포켓몬이라 진화 카드 없이 공격 준비를 나누어 진행할 수 있습니다.",
+        "후파 ex · 메가깜까미 ex: 메가깜까미 ex는 자신을 공격하는 선택에 조건부 추가 피해를 연결해 후속 공격의 누적 피해 계획을 세울 수 있습니다."
+      ],
+      "weaknesses": [
+        "후파 ex · 메가깜까미 ex: 메가깜까미 ex의 40 피해는 공격을 사용한 뒤 상대의 다음 턴이라는 조건이 있어 항상 발생하지 않습니다.",
+        "후파 ex · 메가깜까미 ex: 메가깜까미 ex는 1장만 채용됐으며 기절 시 상대에게 3포인트를 줍니다. 조건부 피해를 얻더라도 포인트 손실이 더 크지 않은지 확인해야 합니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-29T22:00:00.000Z",
+      "recipeKind": "tournament",
+      "format": "Standard 확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129/player/procurador/decklist",
+      "formatSource": "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129",
+      "sources": [
+        "https://pocket.limitlesstcg.com/cards/B3b/41",
+        "https://gamewith.jp/pokemon-tcg-pocket/570627",
+        "https://play.limitlesstcg.com/tournament/6adec44a91617679e84a1129/player/procurador/decklist"
+      ],
+      "cards": [
+        {
+          "id": "B4-103",
+          "quantity": 2,
+          "name": "후파 ex",
+          "nameEn": "Hoopa ex",
+          "type": "미확인"
+        },
+        {
+          "id": "A2-110",
+          "quantity": 1,
+          "name": "다크라이 ex",
+          "nameEn": "Darkrai ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B3b-41",
+          "quantity": 1,
+          "name": "메가깜까미 ex",
+          "nameEn": "Mega Sableye ex",
+          "type": "악"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 2,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 2,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2b-70",
+          "quantity": 1,
+          "name": "포켓몬센터 아가씨",
+          "nameEn": "Pokémon Center Lady",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 2,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B3-147",
+          "quantity": 1,
+          "name": "필드블로어",
+          "nameEn": "Field Blower",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B4-148",
+          "quantity": 2,
+          "name": "Deceptive Needle",
+          "nameEn": "Deceptive Needle",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B3b-64",
+          "quantity": 1,
+          "name": "Small Balloon",
+          "nameEn": "Small Balloon",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-154",
+          "quantity": 1,
+          "name": "Starting Plains",
+          "nameEn": "Starting Plains",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-tyranitar-pair",
+      "name": "메가마기라스 ex · 마기라스 덱",
+      "type": "악",
+      "style": "defensive",
+      "description": "마기라스 계열의 두 진화 선택지를 함께 사용하는 구성입니다.",
+      "strategy": [
+        "실제 손에 잡힌 진화 카드와 에너지 준비 상황을 보고 주력을 정하는 운영을 제안합니다."
+      ],
+      "strengths": [
+        "메가마기라스 ex: 조건부 추가 피해에 의존하지 않는 주력 공격을 계획할 수 있습니다.",
+        "마기라스(A2a): 필드의 아르세우스 계열과 연계해 주력 공격의 피해를 높일 수 있습니다."
+      ],
+      "weaknesses": [
+        "메가마기라스 ex: 공격할 때 자신의 덱 위 카드를 버리므로 필요한 자원이 소모될 수 있습니다.",
+        "마기라스(A2a): 2진화와 많은 에너지가 필요하고 연계 개체를 잃으면 추가 피해 조건도 사라집니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-29T09:45:00.000Z",
+      "recipeKind": "tournament",
+      "format": "Standard 확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/conquestcqn/decklist",
+      "formatSource": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0",
+      "sources": [
+        "https://pocket.limitlesstcg.com/cards/C1/85",
+        "https://pocket.limitlesstcg.com/cards/A2a/41",
+        "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/conquestcqn/decklist"
+      ],
+      "cards": [
+        {
+          "id": "A4-103",
+          "quantity": 2,
+          "name": "Larvitar",
+          "nameEn": "Larvitar",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-76",
+          "quantity": 2,
+          "name": "Pupitar",
+          "nameEn": "Pupitar",
+          "type": "미확인"
+        },
+        {
+          "id": "A2a-41",
+          "quantity": 2,
+          "name": "마기라스",
+          "nameEn": "Tyranitar",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-85",
+          "quantity": 1,
+          "name": "메가마기라스 ex",
+          "nameEn": "Mega Tyranitar ex",
+          "type": "미확인"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 2,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A3-155",
+          "quantity": 2,
+          "name": "Lillie",
+          "nameEn": "Lillie",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 2,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음"
+        },
+        {
+          "id": "C1-119",
+          "quantity": 2,
+          "name": "Sweet Honey",
+          "nameEn": "Sweet Honey",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-1",
+          "quantity": 1,
+          "name": "상처약",
+          "nameEn": "Potion",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-219",
+          "quantity": 2,
+          "name": "Heavy Helmet",
+          "nameEn": "Heavy Helmet",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-dragonite-pair",
+      "name": "메가망나뇽 ex · 망나뇽 덱",
+      "type": "드래곤",
+      "style": "balanced",
+      "description": "망나뇽 계열의 공격 선택지를 함께 준비하는 구성입니다.",
+      "strategy": [
+        "후속 진화를 준비하고, 물·번개 에너지 요구와 교체에 필요한 자원을 따로 확인하세요."
+      ],
+      "strengths": [
+        "메가망나뇽 ex: 배틀 자리 밖의 포켓몬도 공격 대상으로 잡힐 수 있습니다.",
+        "망나뇽(B4): 피해를 주면서 상대 배틀 포켓몬의 에너지 준비를 방해할 수 있습니다. 비 ex인 공격 선택지로 활용할 수 있습니다."
+      ],
+      "weaknesses": [
+        "메가망나뇽 ex: 원하는 대상을 직접 고를 수 없고 공격 준비에 많은 에너지가 필요합니다.",
+        "망나뇽(B4): 물·번개 에너지와 2진화 준비가 필요합니다. 버릴 에너지를 직접 고를 수 없으며, 후퇴 비용 3개도 교체 시점에 부담이 됩니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-29T09:45:00.000Z",
+      "recipeKind": "tournament",
+      "format": "Standard 확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/nuggie_d/decklist",
+      "formatSource": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0",
+      "sources": [
+        "https://pocket.limitlesstcg.com/cards/C1/100",
+        "https://pocket.limitlesstcg.com/cards/B4/118",
+        "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/nuggie_d/decklist"
+      ],
+      "cards": [
+        {
+          "id": "C1-98",
+          "quantity": 2,
+          "name": "미뇽",
+          "nameEn": "Dratini",
+          "type": "미확인"
+        },
+        {
+          "id": "B2b-52",
+          "quantity": 2,
+          "name": "신뇽",
+          "nameEn": "Dragonair",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-100",
+          "quantity": 2,
+          "name": "메가망나뇽 ex",
+          "nameEn": "Mega Dragonite ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B4-118",
+          "quantity": 1,
+          "name": "망나뇽",
+          "nameEn": "Dragonite",
+          "type": "미확인"
+        },
+        {
+          "id": "A3-66",
+          "quantity": 1,
+          "name": "춤추새",
+          "nameEn": "Oricorio",
+          "type": "번개"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2b-70",
+          "quantity": 1,
+          "name": "포켓몬센터 아가씨",
+          "nameEn": "Pokémon Center Lady",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A4-157",
+          "quantity": 1,
+          "name": "Lyra",
+          "nameEn": "Lyra",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 1,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B4-153",
+          "quantity": 1,
+          "name": "민진",
+          "nameEn": "Wally",
+          "type": "해당 없음"
+        },
+        {
+          "id": "C1-127",
+          "quantity": 1,
+          "name": "Serena's Choice",
+          "nameEn": "Serena's Choice",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 2,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 1,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A3-144",
+          "quantity": 1,
+          "name": "이상한사탕",
+          "nameEn": "Rare Candy",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-147",
+          "quantity": 1,
+          "name": "커다란 망토",
+          "nameEn": "Giant Cape",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-gardevoir-indeedee",
+      "name": "메가가디안 ex · 에써르 ex 덱",
+      "type": "초",
+      "style": "balanced",
+      "description": "메가가디안 ex와 에써르 ex를 함께 채용한 구성입니다.",
+      "strategy": [
+        "첫 공격 전의 진화 준비와 공격 이후의 에너지 배분을 구분해 계획하는 운영을 제안합니다."
+      ],
+      "strengths": [
+        "메가가디안 ex: 공격하면서 자신과 후속 초 포켓몬의 에너지를 함께 준비할 수 있어 다음 공격자에게 자원을 배분할 여지가 있습니다.",
+        "에써르 ex: 배틀 포켓몬의 피해를 회복하면서 다른 주력의 공격을 지원할 수 있습니다."
+      ],
+      "weaknesses": [
+        "메가가디안 ex: 2진화와 첫 공격의 에너지 준비가 선행되어야 합니다. 메가진화 ex가 기절하면 상대가 3포인트를 얻으므로, 에너지 확보만큼 남은 HP와 교체 시점도 중요합니다.",
+        "에써르 ex: 회복만으로 큰 공격을 막는 것은 아니며 자체 공격의 추가 피해는 상대 에너지 수에 좌우됩니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-29T09:45:00.000Z",
+      "recipeKind": "tournament",
+      "format": "Standard 확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/yocasper/decklist",
+      "formatSource": "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0",
+      "sources": [
+        "https://pocket.limitlesstcg.com/cards/B2/66",
+        "https://pocket.limitlesstcg.com/cards/B1/121",
+        "https://play.limitlesstcg.com/tournament/6ae12e2322fd412b92a4e4e0/player/yocasper/decklist"
+      ],
+      "cards": [
+        {
+          "id": "B2-63",
+          "quantity": 2,
+          "name": "Ralts",
+          "nameEn": "Ralts",
+          "type": "미확인"
+        },
+        {
+          "id": "B2-64",
+          "quantity": 1,
+          "name": "Kirlia",
+          "nameEn": "Kirlia",
+          "type": "미확인"
+        },
+        {
+          "id": "B2-66",
+          "quantity": 2,
+          "name": "메가가디안 ex",
+          "nameEn": "Mega Gardevoir ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B1-121",
+          "quantity": 2,
+          "name": "에써르 ex",
+          "nameEn": "Indeedee ex",
+          "type": "미확인"
+        },
+        {
+          "id": "C1-56",
+          "quantity": 1,
+          "name": "메가뮤츠 X ex",
+          "nameEn": "Mega Mewtwo X ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B3b-32",
+          "quantity": 1,
+          "name": "메가디안시 ex",
+          "nameEn": "Mega Diancie ex",
+          "type": "미확인"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A1-225",
+          "quantity": 1,
+          "name": "초련",
+          "nameEn": "Sabrina",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A3-144",
+          "quantity": 2,
+          "name": "이상한사탕",
+          "nameEn": "Rare Candy",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 2,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 1,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-155",
+          "quantity": 2,
+          "name": "Peculiar Plaza",
+          "nameEn": "Peculiar Plaza",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-magcargo-a4",
+      "name": "마그카르고 덱",
+      "type": "불꽃",
+      "style": "aggressive",
+      "description": "마그카르고를 중심으로 실제 제출된 불꽃 덱 예시입니다.",
+      "strategy": [
+        "무작위 피해가 자신 이외의 아군에게도 향할 수 있어 벤치와 남은 HP를 함께 확인하는 운영을 제안합니다."
+      ],
+      "strengths": [
+        "마그카르고(A4): 1진화 주력으로 공격을 준비하며, 적은 공격 에너지로 총 150의 무작위 피해를 배분할 수 있습니다. 이는 상대 한 마리에게 150을 확정해서 준다는 뜻은 아닙니다.",
+        "마그카르고(A4): 기본·진화 포켓몬 두 종류에 준비를 집중하고 실제 채용한 회복·에너지 보조로 공격 기회를 이어가는 계획을 세울 수 있습니다."
+      ],
+      "weaknesses": [
+        "마그카르고(A4): 공격 대상이 무작위이고 자신 이외의 아군 포켓몬도 포함되어 원하는 상대의 기절을 보장할 수 없습니다.",
+        "마그카르고(A4): 벤치를 줄이면 아군 피해 후보는 줄지만 후속 진화 준비도 제한됩니다. 상대가 벤치를 늘려도 원하는 대상에 피해가 모일 가능성이 달라집니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-26T18:30:00.000Z",
+      "recipeKind": "tournament",
+      "format": "형식 미확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6aded0c691617679e84a1153/player/mashuttv/decklist",
+      "formatSource": null,
+      "sources": [
+        "https://gamewith.jp/pokemon-tcg-pocket/512435",
+        "https://pocket.limitlesstcg.com/cards/A4/31",
+        "https://pocket.limitlesstcg.com/cards/B1/217",
+        "https://pocket.limitlesstcg.com/cards/B4/155",
+        "https://play.limitlesstcg.com/tournament/6aded0c691617679e84a1153/player/mashuttv/decklist"
+      ],
+      "cards": [
+        {
+          "id": "A4a-8",
+          "quantity": 2,
+          "name": "마그마그",
+          "nameEn": "Slugma",
+          "type": "미확인"
+        },
+        {
+          "id": "A4-31",
+          "quantity": 2,
+          "name": "마그카르고",
+          "nameEn": "Magcargo",
+          "type": "미확인"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 2,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2b-70",
+          "quantity": 2,
+          "name": "포켓몬센터 아가씨",
+          "nameEn": "Pokémon Center Lady",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 2,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-217",
+          "quantity": 2,
+          "name": "플레임패치",
+          "nameEn": "Flame Patch",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 1,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-146",
+          "quantity": 1,
+          "name": "포켓몬 통신",
+          "nameEn": "Pokémon Communication",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B3b-65",
+          "quantity": 2,
+          "name": "우아한 망토",
+          "nameEn": "Elegant Cape",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B4-155",
+          "quantity": 2,
+          "name": "무지갯빛 동굴",
+          "nameEn": "Rainbow Cave",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "research-milotic-sharpedo",
+      "name": "밀로틱 ex · 메가샤크니아 ex 덱",
+      "type": "물",
+      "style": "balanced",
+      "description": "밀로틱 ex와 메가샤크니아 ex를 함께 사용한 물 덱 예시입니다.",
+      "strategy": [
+        "두 진화 계열의 준비 상태와 교체 순서를 실제 채용 목록에 맞춰 검토하는 운영을 제안합니다."
+      ],
+      "strengths": [
+        "밀로틱 ex: 자체 에너지 보충으로 다른 포켓몬의 육성과 공격 준비를 병행할 수 있습니다.",
+        "메가샤크니아 ex: 비교적 이른 공격 전개를 목표로 하고 보조 카드에 따라 운영을 조정할 수 있습니다."
+      ],
+      "weaknesses": [
+        "밀로틱 ex: 수면의 지속은 보장되지 않으며 밀로틱 ex만으로 큰 피해를 한 번에 내는 데에는 한계가 있습니다.",
+        "메가샤크니아 ex: 피해를 입은 주력을 벤치로 옮겨도 다시 불려 나올 수 있어 교대만으로 안전해지지는 않습니다."
+      ],
+      "tier": null,
+      "checkedAt": "2026-10-30",
+      "publishedAt": "2026-10-27T16:05:00.000Z",
+      "recipeKind": "tournament",
+      "format": "형식 미확인",
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6ae0a96880a8f79408d1f7b0/player/jmonz/decklist",
+      "formatSource": null,
+      "sources": [
+        "https://gamewith.jp/pokemon-tcg-pocket/565896",
+        "https://gamewith.jp/pokemon-tcg-pocket/570620",
+        "https://play.limitlesstcg.com/tournament/6ae0a96880a8f79408d1f7b0/player/jmonz/decklist"
+      ],
+      "cards": [
+        {
+          "id": "B3b-14",
+          "quantity": 2,
+          "name": "Feebas",
+          "nameEn": "Feebas",
+          "type": "미확인"
+        },
+        {
+          "id": "B3b-15",
+          "quantity": 2,
+          "name": "밀로틱 ex",
+          "nameEn": "Milotic ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B4-34",
+          "quantity": 1,
+          "name": "샤프니아",
+          "nameEn": "Carvanha",
+          "type": "미확인"
+        },
+        {
+          "id": "B4-35",
+          "quantity": 1,
+          "name": "메가샤크니아 ex",
+          "nameEn": "Mega Sharpedo ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B2a-37",
+          "quantity": 1,
+          "name": "파오젠 ex",
+          "nameEn": "Chien-Pao ex",
+          "type": "미확인"
+        },
+        {
+          "id": "B4a-13",
+          "quantity": 1,
+          "name": "Team Rocket's Lapras",
+          "nameEn": "Team Rocket's Lapras",
+          "type": "미확인"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor’s Research",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B3b-68",
+          "quantity": 2,
+          "name": "Wallace",
+          "nameEn": "Wallace",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 1,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2b-70",
+          "quantity": 1,
+          "name": "포켓몬센터 아가씨",
+          "nameEn": "Pokémon Center Lady",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A3-142",
+          "quantity": 1,
+          "name": "Big Malasada",
+          "nameEn": "Big Malasada",
+          "type": "해당 없음"
+        },
+        {
+          "id": "A4-151",
+          "quantity": 1,
+          "name": "엘리멘탈 교체",
+          "nameEn": "Elemental Switch",
+          "type": "해당 없음"
+        },
+        {
+          "id": "B4-154",
+          "quantity": 1,
+          "name": "Soothing Shore",
+          "nameEn": "Soothing Shore",
+          "type": "해당 없음"
+        }
+      ]
+    },
+    {
+      "id": "verified-altaria-greninja",
+      "name": "메가파비코리 ex · 개굴닌자 덱",
+      "type": "초",
+      "style": "balanced",
+      "description": "벤치 전개에 따라 공격력이 증가하는 메가파비코리 ex와 개굴닌자의 추가 피해를 조합한 실제 제출 덱입니다.",
+      "strategy": [
+        "파비코를 벤치에서 준비하고 다른 기본 포켓몬을 배치해 주력 공격의 피해량을 확보하세요.",
+        "개구마르와 이상한사탕을 함께 확보해 개굴닌자를 준비하세요. 이 목록에는 개굴반장이 없습니다.",
+        "개굴닌자의 특성 피해와 메가파비코리 ex의 공격을 합산해 필요한 공격 횟수를 판단하세요."
+      ],
+      "strengths": [
+        "벤치 전개가 주력의 피해량으로 연결되고, 개굴닌자는 공격과 별개로 상대 포켓몬 한 마리에게 피해를 보탤 수 있습니다.",
+        "초 에너지로 주력을 준비하는 동안 개굴닌자는 특성으로 지원할 수 있습니다."
+      ],
+      "weaknesses": [
+        "메가파비코리 ex는 1장뿐이며 기절하면 3포인트를 내줍니다. 벤치가 줄면 공격력도 낮아집니다.",
+        "개굴닌자 계열은 이상한사탕에 의존합니다. 필요한 진화 카드와 사탕이 함께 잡히지 않으면 준비가 늦어질 수 있습니다."
+      ],
+      "tier": null,
+      "guideRating": {
+        "sourceName": "GameWith",
+        "sourceUrl": "https://gamewith.jp/pokemon-tcg-pocket/527014",
+        "criteriaUrl": "https://gamewith.jp/pokemon-tcg-pocket/462534",
+        "tier": 1,
+        "evaluatedAt": "2026-11-18",
+        "checkedAt": "2026-11-18",
+        "basis": "랜덤 대전에서의 승률·사용률·안정성을 고려한 공략 사이트 평가. 구체적인 수치·산식은 미확인.",
+        "scope": "주요 카드가 일치하는 덱 유형에 대한 평가이며 이 대회 제출 20장 자체의 등급·승률을 뜻하지 않습니다."
+      },
+      "selfRating": null,
+      "checkedAt": "2026-11-18",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "recipeKind": "tournament",
+      "format": "세부 형식 미확인 · 공개 단일 덱 대회",
+      "formatSource": null,
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist",
+      "sources": [
+        "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist",
+        "https://gamewith.jp/pokemon-tcg-pocket/527014",
+        "https://pocket.limitlesstcg.com/cards/B1/102",
+        "https://pocket.limitlesstcg.com/cards/A1/89"
+      ],
+      "energy": [
+        "Psychic"
+      ],
+      "cards": [
+        {
+          "id": "B1-196",
+          "quantity": 2,
+          "name": "파비코",
+          "nameEn": "Swablu",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "B1-102",
+          "quantity": 1,
+          "name": "메가파비코리 ex",
+          "nameEn": "Mega Altaria ex",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "A1-87",
+          "quantity": 2,
+          "name": "개구마르",
+          "nameEn": "Froakie",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "A1-89",
+          "quantity": 2,
+          "name": "개굴닌자",
+          "nameEn": "Greninja",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "B1-109",
+          "quantity": 2,
+          "name": "랑딸랑",
+          "nameEn": "Chingling",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor's Research",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 2,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "A3-144",
+          "quantity": 2,
+          "name": "이상한사탕",
+          "nameEn": "Rare Candy",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        },
+        {
+          "id": "B3-148",
+          "quantity": 2,
+          "name": "행복의알",
+          "nameEn": "Lucky Egg",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/ttv_jmpm9/decklist"
+        }
+      ],
+      "eventEvidence": {
+        "name": "R0zey X Vegegras 50 USD Pocket Clash",
+        "players": 162,
+        "placing": 2,
+        "record": {
+          "wins": 9,
+          "losses": 3,
+          "ties": 0
+        },
+        "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/standings",
+        "note": "해당 제출 선수의 기록입니다. 전체 환경 승률이 아닙니다. API의 format·특수 규칙 필드는 미기재로 표준 규칙 여부는 미확인입니다."
+      },
+      "confidence": "레시피·개별 결과 확인 / 유형 평가 출처 확인 / 개별 레시피 티어·상성 미확인",
+      "authored": true,
+      "updatedAt": "2026-11-18",
+      "nameNote": "한국어 이름은 검색용 표기이며 공식 한국어판의 세부 명칭·공백 대조는 미완료입니다."
+    },
+    {
+      "id": "verified-magnezone-miraidon",
+      "name": "자포코일 · 미라이돈 ex 덱",
+      "type": "번개",
+      "style": "balanced",
+      "description": "레어코일의 에너지 준비를 거쳐 자포코일로 공격하고 미라이돈 ex로 에너지를 모을 수 있는 실제 제출 덱입니다.",
+      "strategy": [
+        "코일을 레어코일로 진화시키고 특성으로 에너지를 준비한 뒤 자포코일의 공격 비용을 확보하세요.",
+        "자포코일의 공격 방해는 동전 결과와 상대의 대응에 따라 달라지므로 방어 성공을 전제로 자원을 소모하지 마세요.",
+        "미라이돈 ex는 손에서 벤치에 내릴 때의 특성으로 에너지를 모을 수 있습니다. 전환 전에 다음 공격과 기절 시 손실을 계산하세요."
+      ],
+      "strengths": [
+        "비 ex 자포코일을 중심으로 공격하면서 레어코일의 에너지 준비를 활용할 수 있습니다.",
+        "미라이돈 ex로 필드 에너지를 모아 후속 공격을 계획할 수 있습니다."
+      ],
+      "weaknesses": [
+        "2진화 준비가 필요하고 자포코일의 90 피해만으로 높은 HP의 상대를 한 번에 기절시키기는 어렵습니다.",
+        "동전 방해는 확정 방어가 아닙니다. 미라이돈 ex로 에너지를 모으면 그 한 마리의 생존에 자원이 집중됩니다."
+      ],
+      "tier": null,
+      "guideRating": {
+        "sourceName": "GameWith",
+        "sourceUrl": "https://gamewith.jp/pokemon-tcg-pocket/536441",
+        "criteriaUrl": "https://gamewith.jp/pokemon-tcg-pocket/462534",
+        "tier": 1,
+        "evaluatedAt": "2026-11-18",
+        "checkedAt": "2026-11-18",
+        "basis": "랜덤 대전에서의 승률·사용률·안정성을 고려한 공략 사이트 평가. 구체적인 수치·산식은 미확인.",
+        "scope": "주요 카드가 일치하는 덱 유형에 대한 평가이며 이 대회 제출 20장 자체의 등급·승률을 뜻하지 않습니다."
+      },
+      "selfRating": null,
+      "checkedAt": "2026-11-18",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "recipeKind": "tournament",
+      "format": "세부 형식 미확인 · 공개 단일 덱 대회",
+      "formatSource": null,
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist",
+      "sources": [
+        "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist",
+        "https://gamewith.jp/pokemon-tcg-pocket/536441",
+        "https://pocket.limitlesstcg.com/cards/B1a/26",
+        "https://pocket.limitlesstcg.com/cards/A1/98"
+      ],
+      "energy": [
+        "Lightning"
+      ],
+      "cards": [
+        {
+          "id": "B1a-24",
+          "quantity": 2,
+          "name": "코일",
+          "nameEn": "Magnemite",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "A1-98",
+          "quantity": 2,
+          "name": "레어코일",
+          "nameEn": "Magneton",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B1a-26",
+          "quantity": 2,
+          "name": "자포코일",
+          "nameEn": "Magnezone",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "A3-66",
+          "quantity": 2,
+          "name": "춤추새",
+          "nameEn": "Oricorio",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B3a-19",
+          "quantity": 1,
+          "name": "미라이돈 ex",
+          "nameEn": "Miraidon ex",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor's Research",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B1a-68",
+          "quantity": 1,
+          "name": "시트론",
+          "nameEn": "Clemont",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 1,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B1-226",
+          "quantity": 1,
+          "name": "루티아",
+          "nameEn": "Lisia",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B3a-73",
+          "quantity": 1,
+          "name": "투로박사",
+          "nameEn": "Professor Turo",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "A2b-70",
+          "quantity": 1,
+          "name": "포켓몬센터 아가씨",
+          "nameEn": "Pokémon Center Lady",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        },
+        {
+          "id": "B2-145",
+          "quantity": 1,
+          "name": "뽑기 아이스",
+          "nameEn": "Lucky Ice Pop",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/player/nid/decklist"
+        }
+      ],
+      "eventEvidence": {
+        "name": "R0zey X Vegegras 50 USD Pocket Clash",
+        "players": 162,
+        "placing": 7,
+        "record": {
+          "wins": 7,
+          "losses": 2,
+          "ties": 1
+        },
+        "sourceUrl": "https://play.limitlesstcg.com/tournament/6afbbb7bee43ef7891476e4f/standings",
+        "note": "해당 제출 선수의 기록입니다. 전체 환경 승률이 아닙니다. API의 format·특수 규칙 필드는 미기재로 표준 규칙 여부는 미확인입니다."
+      },
+      "confidence": "레시피·개별 결과 확인 / 유형 평가 출처 확인 / 개별 레시피 티어·상성 미확인",
+      "authored": true,
+      "updatedAt": "2026-11-18",
+      "nameNote": "한국어 이름은 검색용 표기이며 공식 한국어판의 세부 명칭·공백 대조는 미완료입니다."
+    },
+    {
+      "id": "verified-sceptile-greninja",
+      "name": "메가나무킹 ex · 개굴닌자 덱",
+      "type": "풀",
+      "style": "aggressive",
+      "description": "메가나무킹 ex의 공격과 독 상태, 개굴닌자의 특성 피해를 함께 계획하는 실제 제출 덱입니다.",
+      "strategy": [
+        "나무지기를 먼저 준비하고 손의 나무돌이 또는 이상한사탕에 따라 진화 경로를 선택하세요.",
+        "개굴닌자 계열은 개구마르·이상한사탕·개굴닌자를 함께 확보해야 합니다. 주력 진화와 사탕 사용 순서를 비교하세요.",
+        "메가나무킹 ex가 공격할 때 버리는 풀 에너지를 다음 차례에 보충할 수 있는지 확인하세요."
+      ],
+      "strengths": [
+        "메가나무킹 ex의 130 피해와 독 상태에 개굴닌자의 특성 피해를 더하는 계획을 세울 수 있습니다.",
+        "나무돌이를 통한 진화와 이상한사탕을 통한 진화 두 경로를 사용할 수 있습니다."
+      ],
+      "weaknesses": [
+        "메가나무킹 ex와 개굴닌자는 각각 1장입니다. 2진화 준비가 늦거나 핵심 카드가 소모되면 공격 계획이 제한됩니다.",
+        "공격마다 풀 에너지를 버리며 에너지 제거에 영향을 받습니다. 메가나무킹 ex가 기절하면 3포인트를 내줍니다."
+      ],
+      "tier": null,
+      "guideRating": {
+        "sourceName": "GameWith",
+        "sourceUrl": "https://gamewith.jp/pokemon-tcg-pocket/559107",
+        "criteriaUrl": "https://gamewith.jp/pokemon-tcg-pocket/462534",
+        "tier": 2,
+        "evaluatedAt": "2026-11-18",
+        "checkedAt": "2026-11-18",
+        "basis": "랜덤 대전에서의 승률·사용률·안정성을 고려한 공략 사이트 평가. 구체적인 수치·산식은 미확인.",
+        "scope": "주요 카드가 일치하는 덱 유형에 대한 평가이며 이 대회 제출 20장 자체의 등급·승률을 뜻하지 않습니다."
+      },
+      "selfRating": null,
+      "checkedAt": "2026-11-18",
+      "publishedAt": "2026-11-17T20:30:00.000Z",
+      "recipeKind": "tournament",
+      "format": "세부 형식 미확인 · 공개 단일 덱 대회",
+      "formatSource": null,
+      "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist",
+      "sources": [
+        "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist",
+        "https://gamewith.jp/pokemon-tcg-pocket/559107",
+        "https://pocket.limitlesstcg.com/cards/B3/8",
+        "https://pocket.limitlesstcg.com/cards/A1/89"
+      ],
+      "energy": [
+        "Grass"
+      ],
+      "cards": [
+        {
+          "id": "B3-5",
+          "quantity": 2,
+          "name": "나무지기",
+          "nameEn": "Treecko",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B3-6",
+          "quantity": 1,
+          "name": "나무돌이",
+          "nameEn": "Grovyle",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B3-8",
+          "quantity": 1,
+          "name": "메가나무킹 ex",
+          "nameEn": "Mega Sceptile ex",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "A1-87",
+          "quantity": 1,
+          "name": "개구마르",
+          "nameEn": "Froakie",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "A1-89",
+          "quantity": 1,
+          "name": "개굴닌자",
+          "nameEn": "Greninja",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "A3a-7",
+          "quantity": 1,
+          "name": "페로코체",
+          "nameEn": "Pheromosa",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B3b-61",
+          "quantity": 1,
+          "name": "트리미앙",
+          "nameEn": "Furfrou",
+          "type": "미확인",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "PROMO-A-7",
+          "quantity": 2,
+          "name": "박사의 연구",
+          "nameEn": "Professor's Research",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B1-225",
+          "quantity": 2,
+          "name": "흉내내기 아가씨",
+          "nameEn": "Copycat",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "C1-127",
+          "quantity": 1,
+          "name": "세레나의 선택",
+          "nameEn": "Serena's Choice",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "A2-150",
+          "quantity": 1,
+          "name": "태홍",
+          "nameEn": "Cyrus",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "PROMO-A-5",
+          "quantity": 2,
+          "name": "몬스터볼",
+          "nameEn": "Poké Ball",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "A3-144",
+          "quantity": 2,
+          "name": "이상한사탕",
+          "nameEn": "Rare Candy",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B3-147",
+          "quantity": 1,
+          "name": "필드블로어",
+          "nameEn": "Field Blower",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        },
+        {
+          "id": "B3b-64",
+          "quantity": 1,
+          "name": "작은풍선",
+          "nameEn": "Small Balloon",
+          "type": "해당 없음",
+          "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/player/njjord7/decklist"
+        }
+      ],
+      "eventEvidence": {
+        "name": "🐧 PGX TOURNAMENT #6【 💰$5 USD + FA ⭐⭐】",
+        "players": 145,
+        "placing": 15,
+        "record": {
+          "wins": 6,
+          "losses": 3,
+          "ties": 0
+        },
+        "sourceUrl": "https://play.limitlesstcg.com/tournament/6afc6869ee43ef7891477155/standings",
+        "note": "해당 제출 선수의 기록입니다. 전체 환경 승률이 아닙니다. API의 format·특수 규칙 필드는 미기재로 표준 규칙 여부는 미확인입니다."
+      },
+      "confidence": "레시피·개별 결과 확인 / 유형 평가 출처 확인 / 개별 레시피 티어·상성 미확인",
+      "authored": true,
+      "updatedAt": "2026-11-18",
+      "nameNote": "한국어 이름은 검색용 표기이며 공식 한국어판의 세부 명칭·공백 대조는 미완료입니다."
+    }
+  ]
+}
+

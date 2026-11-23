@@ -1,0 +1,12 @@
+.git
+.env*
+!.env.example
+.venv
+.vercel
+tests
+docs
+evidence
+scripts
+__pycache__
+
+exports/

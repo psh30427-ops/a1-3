@@ -1,0 +1,358 @@
+{
+  "checkedAt": "2026-11-18",
+  "apiDocumentation": "https://docs.limitlesstcg.com/developer/tournaments",
+  "selected": [
+    {
+      "event": {
+        "id": "6afbbb7bee43ef7891476e4f",
+        "name": "R0zey X Vegegras 50 USD Pocket Clash",
+        "date": "2026-11-18T05:00:00.000Z",
+        "format": null,
+        "players": 162,
+        "isPublic": true,
+        "multideck": false,
+        "bannedCards": null,
+        "specialRules": null
+      },
+      "player": "ttv_jmpm9",
+      "placing": 2,
+      "record": {
+        "wins": 9,
+        "losses": 3,
+        "ties": 0
+      },
+      "deck": {
+        "id": "mega-altaria-ex-b1-greninja-a1",
+        "name": "Mega Altaria ex Greninja",
+        "icons": [
+          "altaria-mega",
+          "greninja"
+        ]
+      },
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 2,
+            "set": "B1",
+            "number": "196",
+            "name": "Swablu"
+          },
+          {
+            "count": 1,
+            "set": "B1",
+            "number": "102",
+            "name": "Mega Altaria ex"
+          },
+          {
+            "count": 2,
+            "set": "A1",
+            "number": "87",
+            "name": "Froakie"
+          },
+          {
+            "count": 2,
+            "set": "A1",
+            "number": "89",
+            "name": "Greninja"
+          },
+          {
+            "count": 2,
+            "set": "B1",
+            "number": "109",
+            "name": "Chingling"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "7",
+            "name": "Professor's Research"
+          },
+          {
+            "count": 2,
+            "set": "B1",
+            "number": "225",
+            "name": "Copycat"
+          },
+          {
+            "count": 1,
+            "set": "A2",
+            "number": "150",
+            "name": "Cyrus"
+          },
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "5",
+            "name": "Poké Ball"
+          },
+          {
+            "count": 2,
+            "set": "A3",
+            "number": "144",
+            "name": "Rare Candy"
+          },
+          {
+            "count": 2,
+            "set": "B3",
+            "number": "148",
+            "name": "Lucky Egg"
+          }
+        ],
+        "energy": [
+          "Psychic"
+        ]
+      }
+    },
+    {
+      "event": {
+        "id": "6afbbb7bee43ef7891476e4f",
+        "name": "R0zey X Vegegras 50 USD Pocket Clash",
+        "date": "2026-11-18T05:00:00.000Z",
+        "format": null,
+        "players": 162,
+        "isPublic": true,
+        "multideck": false,
+        "bannedCards": null,
+        "specialRules": null
+      },
+      "player": "nid",
+      "placing": 7,
+      "record": {
+        "wins": 7,
+        "losses": 2,
+        "ties": 1
+      },
+      "deck": {
+        "id": "magnezone-b1a-miraidon-ex-b3a",
+        "name": "Magnezone Miraidon ex",
+        "icons": [
+          "magnezone",
+          "miraidon"
+        ]
+      },
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 2,
+            "set": "B1a",
+            "number": "24",
+            "name": "Magnemite"
+          },
+          {
+            "count": 2,
+            "set": "A1",
+            "number": "98",
+            "name": "Magneton"
+          },
+          {
+            "count": 2,
+            "set": "B1a",
+            "number": "26",
+            "name": "Magnezone"
+          },
+          {
+            "count": 2,
+            "set": "A3",
+            "number": "66",
+            "name": "Oricorio"
+          },
+          {
+            "count": 1,
+            "set": "B3a",
+            "number": "19",
+            "name": "Miraidon ex"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "7",
+            "name": "Professor's Research"
+          },
+          {
+            "count": 1,
+            "set": "A2",
+            "number": "150",
+            "name": "Cyrus"
+          },
+          {
+            "count": 1,
+            "set": "B1a",
+            "number": "68",
+            "name": "Clemont"
+          },
+          {
+            "count": 1,
+            "set": "B1",
+            "number": "225",
+            "name": "Copycat"
+          },
+          {
+            "count": 1,
+            "set": "B1",
+            "number": "226",
+            "name": "Lisia"
+          },
+          {
+            "count": 1,
+            "set": "B3a",
+            "number": "73",
+            "name": "Professor Turo"
+          },
+          {
+            "count": 1,
+            "set": "A2b",
+            "number": "70",
+            "name": "Pokémon Center Lady"
+          },
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "5",
+            "name": "Poké Ball"
+          },
+          {
+            "count": 1,
+            "set": "B2",
+            "number": "145",
+            "name": "Lucky Ice Pop"
+          }
+        ],
+        "energy": [
+          "Lightning"
+        ]
+      }
+    },
+    {
+      "event": {
+        "id": "6afc6869ee43ef7891477155",
+        "name": "🐧 PGX TOURNAMENT #6【 💰$5 USD + FA ⭐⭐】",
+        "date": "2026-11-17T20:30:00.000Z",
+        "format": null,
+        "players": 145,
+        "isPublic": true,
+        "multideck": false,
+        "bannedCards": null,
+        "specialRules": null
+      },
+      "player": "njjord7",
+      "placing": 15,
+      "record": {
+        "wins": 6,
+        "losses": 3,
+        "ties": 0
+      },
+      "deck": {
+        "id": "mega-sceptile-ex-b3-greninja-a1",
+        "name": "Mega Sceptile ex Greninja",
+        "icons": [
+          "sceptile-mega",
+          "greninja"
+        ]
+      },
+      "decklist": {
+        "pokemon": [
+          {
+            "count": 2,
+            "set": "B3",
+            "number": "5",
+            "name": "Treecko"
+          },
+          {
+            "count": 1,
+            "set": "B3",
+            "number": "6",
+            "name": "Grovyle"
+          },
+          {
+            "count": 1,
+            "set": "B3",
+            "number": "8",
+            "name": "Mega Sceptile ex"
+          },
+          {
+            "count": 1,
+            "set": "A1",
+            "number": "87",
+            "name": "Froakie"
+          },
+          {
+            "count": 1,
+            "set": "A1",
+            "number": "89",
+            "name": "Greninja"
+          },
+          {
+            "count": 1,
+            "set": "A3a",
+            "number": "7",
+            "name": "Pheromosa"
+          },
+          {
+            "count": 1,
+            "set": "B3b",
+            "number": "61",
+            "name": "Furfrou"
+          }
+        ],
+        "trainer": [
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "7",
+            "name": "Professor's Research"
+          },
+          {
+            "count": 2,
+            "set": "B1",
+            "number": "225",
+            "name": "Copycat"
+          },
+          {
+            "count": 1,
+            "set": "C1",
+            "number": "127",
+            "name": "Serena's Choice"
+          },
+          {
+            "count": 1,
+            "set": "A2",
+            "number": "150",
+            "name": "Cyrus"
+          },
+          {
+            "count": 2,
+            "set": "P-A",
+            "number": "5",
+            "name": "Poké Ball"
+          },
+          {
+            "count": 2,
+            "set": "A3",
+            "number": "144",
+            "name": "Rare Candy"
+          },
+          {
+            "count": 1,
+            "set": "B3",
+            "number": "147",
+            "name": "Field Blower"
+          },
+          {
+            "count": 1,
+            "set": "B3b",
+            "number": "64",
+            "name": "Small Balloon"
+          }
+        ],
+        "energy": [
+          "Grass"
+        ]
+      }
+    }
+  ]
+}
+
